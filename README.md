@@ -56,5 +56,6 @@ BG = True # If the Bulgarian pipeline should be used or not
 
 
 ### Graph of the EN and BG version of the pipeline.
-<img width="940" height="1298" alt="image" src="https://github.com/user-attachments/assets/1a90e304-fbf0-461c-9db2-62a1d168a6b9" />
+<img width="940" height="1298" alt="image" src="https://github.com/user-attachments/assets/a4e76182-6892-4ba1-8ded-eb8a3bc02fda" />
+
 
